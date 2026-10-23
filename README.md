@@ -4,7 +4,7 @@ An optional Windows app for local MP3 and Soulseek listening rooms on [disc.is](
 
 ## Download
 
-[Windows x64 portable ZIP](https://github.com/1red-ryu/disc-is-companion/releases/download/companion-v0.1.0/disc-is-companion-0.1.0-windows-x64.zip) · [Release notes and checksum](https://github.com/1red-ryu/disc-is-companion/releases/tag/companion-v0.1.0)
+[Windows x64 portable ZIP](https://github.com/1red-ryu/disc-is-companion/releases/download/companion-v0.1.1/disc-is-companion-0.1.1-windows-x64.zip) · [Release notes and checksum](https://github.com/1red-ryu/disc-is-companion/releases/tag/companion-v0.1.1)
 
 This is an unsigned preview. Extract the entire ZIP and open `disc.is-Companion.exe`. Keep the resources and sidecar files together.
 
@@ -21,6 +21,10 @@ Install **FFmpeg and FFprobe** and add them to PATH, or select their paths in th
 Guests can listen to public and unlisted rooms in a browser without signup or a download. DJ controls require a disc.is account.
 
 For SoundCloud, YouTube and Spotify, use **Rooms → Start public room** directly in the browser. Companion is optional for that mode; each service's availability and preview restrictions apply.
+
+## Browse Soulseek
+
+Pair your disc.is account and choose a music folder. In Companion, open Soulseek setup, enter your Soulseek account, and confirm sharing. Once the client is connected and your folder is indexed, use **Search shared music** or **Browse someone's files**. Search results include a button to browse the sharing user. You can browse and filter folders and files without a room; this does not download anything. Start a room and explicitly choose **Queue MP3** to play a compatible file there.
 
 ## What's included
 
