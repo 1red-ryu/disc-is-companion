@@ -2,7 +2,7 @@
 
 Connect your computer once. Use Soulseek and your local music from [disc.is](https://disc.is/).
 
-[Download Companion 0.1.6 for Windows x64](https://github.com/1red-ryu/disc-is-companion/releases/download/companion-v0.1.6/disc-is-companion-0.1.6-windows-x64.zip) · [Release and checksums](https://github.com/1red-ryu/disc-is-companion/releases/tag/companion-v0.1.6)
+[Download Companion 0.1.7 for Windows x64](https://github.com/1red-ryu/disc-is-companion/releases/download/companion-v0.1.7/disc-is-companion-0.1.7-windows-x64.zip) · [Release and checksums](https://github.com/1red-ryu/disc-is-companion/releases/tag/companion-v0.1.7)
 
 ## Setup
 
