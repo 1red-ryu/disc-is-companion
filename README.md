@@ -4,7 +4,7 @@ An optional Windows app for local MP3 and Soulseek listening rooms on [disc.is](
 
 ## Download
 
-[Windows x64 portable ZIP](https://github.com/1red-ryu/disc-is-companion/releases/download/companion-v0.1.4/disc-is-companion-0.1.4-windows-x64.zip) · [Release notes and checksum](https://github.com/1red-ryu/disc-is-companion/releases/tag/companion-v0.1.4)
+[Windows x64 portable ZIP](https://github.com/1red-ryu/disc-is-companion/releases/download/companion-v0.1.5/disc-is-companion-0.1.5-windows-x64.zip) · [Release notes and checksum](https://github.com/1red-ryu/disc-is-companion/releases/tag/companion-v0.1.5)
 
 This is an unsigned preview. Extract the entire ZIP and open `disc.is-Companion.exe`. Keep the resources and sidecar files together.
 
@@ -51,3 +51,9 @@ Choose **Soulseek** in the regular disc.is search bar. Results show discs and tr
 Downloads travel through the paired computer over your private encrypted connection. Browsers with a Save picker support files up to 512 MiB; other browsers, including iPhone Safari, support up to 64 MiB. MP3 remains the format supported for room broadcasts.
 
 Set a custom **disc.is/r/your-room** link under **Rooms → Your room → Room URL**. Old room links keep working.
+
+## Listen while a track downloads
+
+With Companion 0.1.5, click an MP3 disc in the regular disc.is Soulseek search. It opens a temporary large disc and plays once enough peer audio arrives, without creating a room. Pause, resume and volume use the normal site controls; return to the same search results with Back. **+** separately saves the original file to your browser.
+
+Companion decodes the growing MP3 and sends bounded audio chunks over your private encrypted connection. Keep your computer and Soulseek online. Preview supports MP3s with known duration up to one hour and size up to 250 MB; seeking is unavailable during progressive preview. Other supported formats remain downloadable. If your browser tab is hosting a provider room, use another tab for private previews.
