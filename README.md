@@ -4,7 +4,7 @@ An optional Windows app for local MP3 and Soulseek listening rooms on [disc.is](
 
 ## Download
 
-[Windows x64 portable ZIP](https://github.com/1red-ryu/disc-is-companion/releases/download/companion-v0.1.3/disc-is-companion-0.1.3-windows-x64.zip) · [Release notes and checksum](https://github.com/1red-ryu/disc-is-companion/releases/tag/companion-v0.1.3)
+[Windows x64 portable ZIP](https://github.com/1red-ryu/disc-is-companion/releases/download/companion-v0.1.4/disc-is-companion-0.1.4-windows-x64.zip) · [Release notes and checksum](https://github.com/1red-ryu/disc-is-companion/releases/tag/companion-v0.1.4)
 
 This is an unsigned preview. Extract the entire ZIP and open `disc.is-Companion.exe`. Keep the resources and sidecar files together.
 
@@ -43,3 +43,11 @@ The portable ZIP includes Companion application source under `resources/app`, se
 This repository distributes the app and setup notes. The disc.is website repository is separate.
 
 Actual Soulseek peer transfers and physical iPhone acceptance are still pending. There is no installer or automatic updater in this preview.
+
+## Soulseek downloads in your browser
+
+Choose **Soulseek** in the regular disc.is search bar. Results show discs and track information, load more as you scroll, and have a **+** button to save an audio file to your device. Keep Companion online and Soulseek connected; no live room is needed.
+
+Downloads travel through the paired computer over your private encrypted connection. Browsers with a Save picker support files up to 512 MiB; other browsers, including iPhone Safari, support up to 64 MiB. MP3 remains the format supported for room broadcasts.
+
+Set a custom **disc.is/r/your-room** link under **Rooms → Your room → Room URL**. Old room links keep working.
